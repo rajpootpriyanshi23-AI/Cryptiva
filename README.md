@@ -50,6 +50,5 @@ Cryptiva/
 - Java Programming
 
 ## Author
-Priyanshi Rajpoot
 
 **Priyanshi Rajpoot**
